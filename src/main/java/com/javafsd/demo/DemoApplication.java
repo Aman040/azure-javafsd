@@ -16,7 +16,7 @@ public class DemoApplication {
 	
 	@GetMapping("/hello")
 	public String hello() {
-		return "Hello Aman!  Welocme to Azure";
+		return "Hello Aman!  Welocme to Microsoft Azure";
 	}
 
 	
